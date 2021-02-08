@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**KevinNutellaBReady/KevinNutellaBReady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About ME
 
-Here are some ideas to get you started:
+- I've been programming for 2 years
+- My Favourite Stack is ###MEAN
+- I started with Java
+- I'm on Fiverr: https://www.fiverr.com/devhumorkevin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Facts
+
+- 🔭 I’m currently working on a Alt:V Server :D
+- 🌱 I’m currently learning MEAN-Stack & Alt:V API
+- 🤔 I’m looking for help with Alt:V 
+- 💬 Ask me about the MEAN-Stack
+- 📫 How to reach me: Discord: Devhumor#7013
+
+### Thanks for reading goodbye ;D
