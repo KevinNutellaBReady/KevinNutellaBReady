@@ -2,7 +2,7 @@
 
 ### About ME
 
-- I've been programming for 2 years
+- I've been programming for 3 years
 - My Favourite Stack is ###MEAN
 - I started with Java
 - I'm on Fiverr: https://www.fiverr.com/devhumorkevin
