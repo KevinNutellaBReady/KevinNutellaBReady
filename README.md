@@ -3,13 +3,13 @@
 ### About ME
 
 - I've been programming for 3 years
-- My Favourite Stack is ###MEAN
+- My Favourite Stack is MEAN
 - I started with Java
 - I'm on Fiverr: https://www.fiverr.com/devhumorkevin
 
 ### Facts
 
-- 🔭 I’m currently working on a Alt:V Server :D
+- 🔭 I’m currently working on some Scripts for alt:V
 - 🌱 I’m currently learning MEAN-Stack & Alt:V API
 - 🤔 I’m looking for help with Alt:V 
 - 💬 Ask me about the MEAN-Stack
