@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on some Scripts for alt:V
 - 🌱 I’m currently learning MEAN-Stack & Alt:V API
-- 🤔 I’m looking for help with Alt:V 
+- 🤔 You can write me for Help
 - 💬 Ask me about the MEAN-Stack
 - 📫 How to reach me: Discord: Devhumor#7013
 
